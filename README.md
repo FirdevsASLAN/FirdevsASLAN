@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FirdevsASLAN](https://github.com/FirdevsASLAN)
-
 - 💬 Ask me about **Html, Css, Js, Vue**
 
 
