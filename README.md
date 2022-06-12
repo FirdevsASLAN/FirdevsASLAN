@@ -5,6 +5,9 @@
 
 - 💬 Ask me about **Html, Css, Js, Vue**
 
+-📫 How to reach me **firdevsaslan6@gmail.com
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
