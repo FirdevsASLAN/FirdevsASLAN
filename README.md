@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Html, Css, Js, Vue**
 
-📫 How to reach me **firdevsaslan6@gmail.com**
+- 📫 How to reach me **firdevsaslan6@gmail.com**
 
 
 
